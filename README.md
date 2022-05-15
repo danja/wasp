@@ -9,11 +9,11 @@ Material related to the Wasp Synthesizer
 * [Behringer Wasp Patch Sheet](https://github.com/danja/wasp/blob/main/media/WASP_DELUXE_Patch_Sheet.pdf)
 
 * [EDP Wasp Performer's Manual](https://github.com/danja/wasp/blob/main/media/edp-wasp-manual.pdf)
-* [EDP Wasp Service Manual](WASP_SERVICE_MANUAL.pdf) (creds : [synfo.nl](http://www.synfo.nl/))
+* [EDP Wasp Service Manual](https://github.com/danja/wasp/blob/main/media/WASP_SERVICE_MANUAL.pdf) (creds : [synfo.nl](http://www.synfo.nl/))
 
 ### TR-808 Cowbell
 
-* YouTube video, [Emulating the TR-808 Cowbell with a Wasp](https://www.youtube.com/watch?v=97sJIVRloOY)
+* [Emulating the TR-808 Cowbell with a Wasp](https://www.youtube.com/watch?v=97sJIVRloOY) (YouTube video)
 * [Wasp cowbell patch](https://github.com/danja/wasp/blob/main/media/tr808-cowbell-patch.png)
 
 * [Frisnit blog post describing the TR-808 Cowbell circuit](http://www.frisnit.com/roland-tr-808-cowbell-rebuild/)
